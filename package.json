@@ -1,0 +1,24 @@
+{
+  "name": "jayin_dev",
+  "version": "1.0.0",
+  "description": "This is a sample to connect MySQL database using NodeJS ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeprakhar22/MySQL-NodeJS.git"
+  },
+  "keywords": [
+    "MySQL",
+    "NodeJS",
+    "connect"
+  ],
+  "author": "Prakhar Sharan - 2020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeprakhar22/MySQL-NodeJS/issues"
+  },
+  "homepage": "https://github.com/itsmeprakhar22/MySQL-NodeJS#readme"
+}
